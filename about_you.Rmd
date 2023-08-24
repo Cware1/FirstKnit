@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Cleo Ware"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended 2 different high schools. The first was Foothill high school in Sacramento CA. The second was Palmdale high school. And yes, I did graduate. I find English to be much easier for me then Math. I've never really been a fan of math. The subject I do best in is history. I find learning about history fascinating.
 
      
 
